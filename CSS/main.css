@@ -46,4 +46,18 @@ nav .nav-right-section img {
     margin-left: 1rem;
 }
 
+main {
+    margin-top: 15rem;
+    text-align: center;
+}
+main .main-logo {
+    width: 50.3rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+main .main-logo img {
+    width: 40rem;
+    margin-top: 5rem;
+}
+
 
