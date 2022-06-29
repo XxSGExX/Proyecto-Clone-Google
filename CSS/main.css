@@ -8,6 +8,10 @@ body {
     font-size: 1.3rem;
     font-family: Arial, Helvetica, sans-serif;
 }
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
 
 header {
     width: 100%;
@@ -16,5 +20,18 @@ header {
 header nav {
     display: flex;
     justify-content: flex-end;
-
 }
+header nav .nav-right-section {
+    width: 25rem;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+nav .nav-right-section a {
+    margin-right: 1rem;
+    color: #000000;
+}
+
+
