@@ -122,4 +122,5 @@ main .main-buttons button:hover {
     border: 0.1rem solid #c6c6c6;
     box-shadow: 0 0.1rem 0.1rem #000001;
     color: #222;
+    cursor: pointer;
 }
